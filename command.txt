@@ -1,4 +1,0 @@
-Dream Team
-Knuth
-Dijkstra
-Cormen
