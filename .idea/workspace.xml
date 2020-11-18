@@ -10,18 +10,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="1711">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/selenium" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4f7b90ef-bf08-4535-8cf6-e89777961fc9" />
   </component>
   <component name="ProjectId" id="1kBLxCHs9ZbBClOjCYBJG15WauZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,6 +68,21 @@
       <option name="presentableId" value="Default" />
       <updated>1605169281643</updated>
     </task>
+    <task id="LOCAL-00001" summary="1711">
+      <created>1605647118994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605647118994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1711">
+      <created>1605647319666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605647319666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +95,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1711" />
+    <option name="LAST_COMMIT_MESSAGE" value="1711" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="462" width="303" height="179" key="Github.Dialog.Accounts.Choose" timestamp="1605647491802">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="744" y="462" width="303" height="179" key="Github.Dialog.Accounts.Choose/0.25.1792.1010@0.25.1792.1010" timestamp="1605647491802" />
+    <state width="1379" height="254" key="GridCell.Tab.0.bottom" timestamp="1605647545856">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1379" height="254" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1605647545856" />
+    <state width="1379" height="254" key="GridCell.Tab.0.center" timestamp="1605647545856">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1379" height="254" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1605647545856" />
+    <state width="1379" height="254" key="GridCell.Tab.0.left" timestamp="1605647545856">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1379" height="254" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1605647545856" />
+    <state width="1379" height="254" key="GridCell.Tab.0.right" timestamp="1605647545856">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1379" height="254" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1605647545856" />
+    <state x="496" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605647477070">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="496" y="268" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1605647477070" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
