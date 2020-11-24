@@ -11,12 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="1711">
+      <change afterPath="$PROJECT_DIR$/171120_strings3/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/INPUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/acmp633.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/codewars_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171120_strings3/unpack_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/241120_strings4/cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/241120_strings4/city.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/241120_strings4/list1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="master" />
@@ -28,7 +47,9 @@
     <option name="defaultAccountId" value="4f7b90ef-bf08-4535-8cf6-e89777961fc9" />
   </component>
   <component name="ProjectId" id="1kBLxCHs9ZbBClOjCYBJG15WauZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.codewars_delete">
+  <component name="RunManager" selected="Python.cities">
     <configuration name="acmp633" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +71,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171120_strings3/acmp633.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/241120_strings4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/241120_strings4/cities.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,8 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.codewars_delete" />
+        <item itemvalue="Python.cities" />
         <item itemvalue="Python.acmp633" />
+        <item itemvalue="Python.codewars_delete" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605712094340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1711">
+      <created>1606231677306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606231677306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,30 +207,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="1711" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="636" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606232224145">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="636" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1015@0.25.1792.1015" timestamp="1606232224145" />
     <state x="744" y="462" width="303" height="179" key="Github.Dialog.Accounts.Choose" timestamp="1605712215547">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
     <state x="744" y="462" width="303" height="179" key="Github.Dialog.Accounts.Choose/0.25.1792.1010@0.25.1792.1010" timestamp="1605712215547" />
-    <state width="1379" height="254" key="GridCell.Tab.0.bottom" timestamp="1605774237614">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state width="1379" height="254" key="GridCell.Tab.0.bottom" timestamp="1606233030875">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state width="1379" height="254" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.center" timestamp="1605774237614">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state width="1379" height="254" key="GridCell.Tab.0.bottom/0.25.1792.1015@0.25.1792.1015" timestamp="1606233030875" />
+    <state width="1379" height="254" key="GridCell.Tab.0.center" timestamp="1606233030875">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state width="1379" height="254" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.left" timestamp="1605774237614">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state width="1379" height="254" key="GridCell.Tab.0.center/0.25.1792.1015@0.25.1792.1015" timestamp="1606233030875" />
+    <state width="1379" height="254" key="GridCell.Tab.0.left" timestamp="1606233030874">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state width="1379" height="254" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.right" timestamp="1605774237614">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state width="1379" height="254" key="GridCell.Tab.0.left/0.25.1792.1015@0.25.1792.1015" timestamp="1606233030874" />
+    <state width="1379" height="254" key="GridCell.Tab.0.right" timestamp="1606233030875">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state width="1379" height="254" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state x="496" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605712201985">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state width="1379" height="254" key="GridCell.Tab.0.right/0.25.1792.1015@0.25.1792.1015" timestamp="1606233030875" />
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2" timestamp="1606231668287">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state x="496" y="268" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1605712201985" />
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1606231668287" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
