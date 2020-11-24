@@ -11,12 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="2411">
-      <change afterPath="$PROJECT_DIR$/241120_strings4/codewars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/241120_strings4/list2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/241120_strings4/secret_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/241120_strings4/cities.py" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/city/cities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/241120_strings4/city.txt" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/city.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/241120_strings4/list1.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <recent name="$PROJECT_DIR$/241120_strings4/city" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.codewars">
+  <component name="RunManager" selected="Python.field_dream">
     <configuration name="acmp633" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,6 +130,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171120_strings3/codewars_delete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="field_dream" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="P1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/241120_strings4" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606234833063</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2411">
+      <created>1606241698061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606241698061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,6 +323,10 @@
     </state>
     <state x="496" y="268" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1605712201985" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1606241680659" />
+    <state x="0" y="129" width="943" height="648" key="dock-window-1" timestamp="1606242772103">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="0" y="129" width="943" height="648" key="dock-window-1/0.25.1792.1015@0.25.1792.1015" timestamp="1606242772103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
