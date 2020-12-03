@@ -11,8 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="2411">
-      <change afterPath="$PROJECT_DIR$/241120_strings4/secret_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/buses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/busnumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/delete_words_with_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/figures.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/file_with_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/oddfigures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/paars_of_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031220, Strings5/pairs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/171120_strings3/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/171120_strings3/unpack_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/171120_strings3/unpack_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/241120_strings4/city.txt" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/city.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/241120_strings4/list2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/list2.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,8 +65,8 @@
       <recent name="$PROJECT_DIR$/241120_strings4/city" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.field_dream">
-    <configuration name="acmp633" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.paars_of_figures">
+    <configuration name="backspace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/171120_strings3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops/031120 Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171120_strings3/acmp633.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops/031120 Strings/backspace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/241120_strings4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/031220, Strings5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/241120_strings4/city/cities.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031220, Strings5/buses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codewars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="delete_words_with_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,32 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/241120_strings4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/031220, Strings5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/241120_strings4/codewars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="codewars_delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="P1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/171120_strings3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171120_strings3/codewars_delete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031220, Strings5/delete_words_with_figures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,12 +171,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="oddfigures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/031220, Strings5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031220, Strings5/oddfigures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paars_of_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/031220, Strings5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031220, Strings5/paars_of_figures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.codewars" />
-        <item itemvalue="Python.cities" />
-        <item itemvalue="Python.acmp633" />
-        <item itemvalue="Python.codewars_delete" />
+        <item itemvalue="Python.paars_of_figures" />
+        <item itemvalue="Python.oddfigures" />
+        <item itemvalue="Python.delete_words_with_figures" />
+        <item itemvalue="Python.buses" />
+        <item itemvalue="Python.backspace" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606241698061</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2411">
+      <created>1606242846506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606242846506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,66 +309,6 @@
     <MESSAGE value="2411" />
     <option name="LAST_COMMIT_MESSAGE" value="2411" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="636" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606232224145">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state x="636" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1015@0.25.1792.1015" timestamp="1606232224145" />
-    <state x="633" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606238441208">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state x="633" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1015@0.25.1792.1015" timestamp="1606238441208" />
-    <state x="744" y="464" width="303" height="179" key="Github.Dialog.Accounts.Choose" timestamp="1606241683545">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state x="744" y="462" width="303" height="179" key="Github.Dialog.Accounts.Choose/0.25.1792.1010@0.25.1792.1010" timestamp="1605712215547" />
-    <state x="744" y="464" key="Github.Dialog.Accounts.Choose/0.25.1792.1015@0.25.1792.1015" timestamp="1606241683545" />
-    <state width="1379" height="254" key="GridCell.Tab.0.bottom" timestamp="1606239193814">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="254" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.bottom/0.25.1792.1015@0.25.1792.1015" timestamp="1606239193814" />
-    <state width="1379" height="254" key="GridCell.Tab.0.center" timestamp="1606239193814">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="254" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.center/0.25.1792.1015@0.25.1792.1015" timestamp="1606239193814" />
-    <state width="1379" height="254" key="GridCell.Tab.0.left" timestamp="1606239193813">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="254" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.left/0.25.1792.1015@0.25.1792.1015" timestamp="1606239193813" />
-    <state width="1379" height="254" key="GridCell.Tab.0.right" timestamp="1606239193814">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="254" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1605774237614" />
-    <state width="1379" height="254" key="GridCell.Tab.0.right/0.25.1792.1015@0.25.1792.1015" timestamp="1606239193814" />
-    <state width="1379" height="314" key="GridCell.Tab.1.bottom" timestamp="1606238431808">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="314" key="GridCell.Tab.1.bottom/0.25.1792.1015@0.25.1792.1015" timestamp="1606238431808" />
-    <state width="1379" height="314" key="GridCell.Tab.1.center" timestamp="1606238431808">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="314" key="GridCell.Tab.1.center/0.25.1792.1015@0.25.1792.1015" timestamp="1606238431808" />
-    <state width="1379" height="314" key="GridCell.Tab.1.left" timestamp="1606238431807">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="314" key="GridCell.Tab.1.left/0.25.1792.1015@0.25.1792.1015" timestamp="1606238431807" />
-    <state width="1379" height="314" key="GridCell.Tab.1.right" timestamp="1606238431808">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state width="1379" height="314" key="GridCell.Tab.1.right/0.25.1792.1015@0.25.1792.1015" timestamp="1606238431808" />
-    <state x="496" y="269" key="Vcs.Push.Dialog.v2" timestamp="1606241680659">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state x="496" y="268" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1605712201985" />
-    <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1606241680659" />
-    <state x="0" y="129" width="943" height="648" key="dock-window-1" timestamp="1606242772103">
-      <screen x="0" y="25" width="1792" height="1015" />
-    </state>
-    <state x="0" y="129" width="943" height="648" key="dock-window-1/0.25.1792.1015@0.25.1792.1015" timestamp="1606242772103" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -340,6 +321,11 @@
           <url>file://$PROJECT_DIR$/241120_strings4/city/cities.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/031220, Strings5/oddfigures.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
