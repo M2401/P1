@@ -204,10 +204,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.paars_of_figures" />
-        <item itemvalue="Python.oddfigures" />
         <item itemvalue="Python.delete_words_with_figures" />
         <item itemvalue="Python.buses" />
         <item itemvalue="Python.backspace" />
+        <item itemvalue="Python.oddfigures" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607016716288</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="0312">
+      <created>1607345284531</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607345284531</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
