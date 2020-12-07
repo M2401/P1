@@ -10,20 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="2411">
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/buses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/busnumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/delete_words_with_figures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/figures.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/file_with_words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/oddfigures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/paars_of_figures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031220, Strings5/pairs.txt" afterDir="false" />
+    <list default="true" id="d712c306-25b0-4d94-b6cd-e28f4904b8b2" name="Default Changelist" comment="0312">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/171120_strings3/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/171120_strings3/unpack_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/171120_strings3/unpack_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/241120_strings4/city.txt" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/city.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/241120_strings4/list2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/241120_strings4/list2.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606242846506</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0312">
+      <created>1607016716288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607016716288</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +302,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1711" />
     <MESSAGE value="2411" />
-    <option name="LAST_COMMIT_MESSAGE" value="2411" />
+    <MESSAGE value="0312" />
+    <option name="LAST_COMMIT_MESSAGE" value="0312" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
